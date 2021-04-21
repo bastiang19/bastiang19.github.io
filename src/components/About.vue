@@ -32,7 +32,7 @@
                 me
               </h2>
               <p>
-                Belarus. Minsk. 19 years. Turning the internet into art.
+                Belarus. Minsk. 20 years. Turning the internet into art.
               </p>
               <p>
                 Cocktail of my skills: PHP, CSS, HTML, JavaScript, Jquery, Vue.js, Laravel, Xenforo, Mysql, Git, Linux, Node.js, Puppeteer, Playwright, NativeScript, React.js, Telegraf.js, ...
